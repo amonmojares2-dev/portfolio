@@ -23,6 +23,13 @@ const projects = [
     alt: "Hero Day poster design by Diamond Ace M. Mojares",
   },
   {
+    title: "Ravenous Horde",
+    category: "poster",
+    categoryLabel: "Poster design",
+    image: "assets/optimized/horror.png",
+    alt: "Dark horror poster artwork titled Ravenous Horde",
+  },
+  {
     title: "T-Shirt Design",
     category: "apparel",
     categoryLabel: "Apparel design",
